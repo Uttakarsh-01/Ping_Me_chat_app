@@ -1,0 +1,5 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+    themes: light --default, dark --prefersdark, cupcake , retro,bumblebee, emerald, halloween, aqua, lofi, swiss, funky, midnight, blood, chocolate, forest, sky, gray, slate, dracula;
+}
+@plugin "daisyui";
